@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "react-native-linear-gradient": "^2.6.2"
+  },
+  "resolutions": {
+    "@babel/core": "^7.20.2",
+    "babel-loader": "^8.3.0"
+  },
+  "overrides": {
+    "@babel/core": "^7.20.2",
+    "babel-loader": "^8.3.0"
+  }
+}
