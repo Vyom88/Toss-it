@@ -1,5 +1,4 @@
 # TossIt - Waste Analytics Software
-
 Source code for Toss It Waste Analytics Software
 
 ![Group 17788](https://user-images.githubusercontent.com/67121244/204099403-e815ee2c-a6ba-45c4-b670-5f0dc16b91c6.png)
