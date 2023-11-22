@@ -20,7 +20,7 @@ Another problem is that waste analytics usually occurs at the industrial waste m
 
 ## Proposed Solution:
 
-Creating a waste management system that collects data and provides real-time data/insights into your waste disposal. 
+A waste management app that identifies how to dispose of an item using a photo and provides data insights on your waste disposal history.
 
 ### How will it work?
 
